@@ -1,0 +1,14 @@
+{
+  "name": "cute-cat-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "git@github.com:khjkr/Cute-Cat-Bot.git",
+  "author": "khjkr <hyunjun5216@naver.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
